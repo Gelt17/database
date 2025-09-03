@@ -56,8 +56,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <url-вашего-репозитория>
-cd <имя-папки-проекта>
+git clone https://github.com/Gelt17/database.git
+cd database
 ```
 
 2. Установите зависимости:
